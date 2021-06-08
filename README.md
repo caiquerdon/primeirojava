@@ -1,2 +1,2 @@
-# primeirojava
-Um primeiro programa em Java
+# primeiro Java
+Um primeiro programa em Java, com exemplo para orientação a objetos
